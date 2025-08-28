@@ -43,11 +43,13 @@ Cada PC foi alocado em uma VLAN específica e configurado com IP compatível com
 <img width="1655" height="737" alt="Image" src="https://github.com/user-attachments/assets/a2039455-df41-4f20-af78-9e6ad1c0d45f" />
 
 📶 Teste de Conectividade (Ping entre Computadores)
+
 Ping executado entre máquinas de diferentes VLANs, comprovando que o roteamento inter-VLAN via SVI está funcionando corretamente:
 
 <img width="650" height="297" alt="Image" src="https://github.com/user-attachments/assets/c70dd455-1a9b-44cb-b982-4925b02aa32e" />
 
 🌐 Acesso Web ao Servidor
+
 Os computadores também conseguiram acessar o servidor web interno, confirmando a comunicação entre VLANs:
 
 <img width="695" height="381" alt="Image" src="https://github.com/user-attachments/assets/9169e803-0d78-44cc-871b-db0af4f36957" />
